@@ -1,0 +1,24 @@
+{
+  "device": {
+    "id": "remeniv_alarm_esp"
+  },
+  "mqtt": {
+    "enable": true,
+    "server": "mqtt",
+    "user": "-",
+    "pass": "-"
+  },
+  "aws": {
+    "thing_name": "esp8266_remeniv_alarm"
+  },
+  "wifi": {
+    "ap": {
+      "enable": false
+    },
+    "sta": {
+      "enable": true,
+      "ssid": "GIOT",
+      "pass": "-"
+    }
+  }
+}

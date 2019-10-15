@@ -1,0 +1,5 @@
+{
+    "openhab.useRestApi": false,
+    "mos.port": "",
+    "mos.board": "ESP8266"
+}
